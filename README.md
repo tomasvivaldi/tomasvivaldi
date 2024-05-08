@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/tomasvivaldi)
 
-- 📝 I occasionally write articles on [My Blog](https://sergeimeza.com)
+- 📝 I occasionally write articles on [My Blog](https://blog.tomasvivaldi.com)
 
 - 💬 Ask me about Frontend, Backend, and everything in between
 
